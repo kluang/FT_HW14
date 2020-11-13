@@ -2,7 +2,7 @@
 
 ![deeplearning](deeplearning.jpg)
 
-We will be using deep learning recurrent neural networks to model bitcoin closing prices. One model will use the FNG indicators, the [Crypto Fear and Greed Index (FNG)](https://alternative.me/crypto/fear-and-greed-index/), which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency to predict the closing price; while the second model will use a window of closing prices to predict the nth closing price.
+I will be using deep learning recurrent neural networks to model bitcoin closing prices. One model will use the FNG indicators, the [Crypto Fear and Greed Index (FNG)](https://alternative.me/crypto/fear-and-greed-index/), which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency to predict the closing price; while the second model will use a window of closing prices to predict the nth closing price.
 
 * For the Fear and Greed model, we are using the FNG values to try and predict the closing price.
 
